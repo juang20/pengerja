@@ -1,0 +1,58 @@
+.top-header {
+    text-align: center;
+    background-image: url(../images/langit2.jpg);
+    background-size: cover;
+    height: 200px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#judul{
+    padding-top: 70px;
+}
+.header-top {
+    background-color: #0E8388;
+    height: 100px;
+    padding: 20px;
+    float: auto;
+}
+
+.justify-content-center {
+    background-color: #0E8388;
+    color: white;
+    text-decoration: white;
+    box-shadow: 6, 6, 6, 6;
+}
+
+
+/* CONTENT */
+
+.content {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 5px;
+    
+}
+
+.judul {
+    background-color: #0E8388;
+    padding: 5px;
+    margin: 50px 0px 30px 0px;
+}
+
+#table_member {
+    font-size: 12px;
+
+}
+
+.btn-aksi {
+    font-size: 13px;
+}
+
+#btn-tambah{
+    margin-bottom: 30px;
+}

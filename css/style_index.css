@@ -1,0 +1,29 @@
+.top-header {
+    text-align: center;
+    background-image: url(../images/langit2.jpg);
+    background-size: cover;
+    height: 200px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#judul{
+    padding-top: 70px;
+}
+.header-top {
+    background-color: bisque;
+    height: 100px;
+    padding: 20px;
+    float: auto;
+}
+
+.justify-content-center {
+    background-color: #E8D5C4;
+    color: white;
+    text-decoration: white;
+    box-shadow: 6, 6, 6, 6;
+}
